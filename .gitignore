@@ -1,0 +1,29 @@
+# Local and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+~$*
+
+# Personal source documents and temporary render files
+.docx_work/
+*.docx
+PROJECT_MEMORY.md
+
+# Unrelated local project
+beer_mug_model/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Common build artefacts
+node_modules/
+dist/
+build/
+coverage/
+.next/
+__pycache__/
+*.py[cod]
+
