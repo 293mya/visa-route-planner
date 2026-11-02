@@ -34,6 +34,5 @@
 
 ## Документация
 
-- [`PROJECT_MEMORY.md`](PROJECT_MEMORY.md) — подтверждённый контекст и журнал решений;
 - [`docs/PROJECT_PLAN.md`](docs/PROJECT_PLAN.md) — предлагаемый план разработки и открытые вопросы.
 
